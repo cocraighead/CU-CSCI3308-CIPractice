@@ -1,4 +1,4 @@
 language: c
 compiler: gcc
 script: make dep && make test
-install: make get-deps
+install: make get-dep
